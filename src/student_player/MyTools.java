@@ -1005,6 +1005,3 @@ public class MyTools {
  	}
  
 }
- 
-  
-  
