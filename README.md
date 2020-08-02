@@ -8,4 +8,4 @@ I learned a lot about algorithm optimization while building this project as well
 
 Some of the limitations of my project is my coding style and maintainability. I have worked on my ability to write simple and modular code as a result of this project.
 
-This project got me very excited and inspired me to build another A.I for the 2048 mini-game on my own time as a passion project which also on my Github.
+This project got me very excited and inspired me to build another A.I for the 2048 mini-game on my own time as a passion project which is also on my Github.
