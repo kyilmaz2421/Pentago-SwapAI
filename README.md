@@ -1,4 +1,5 @@
 # Pentago-SwapAI Introduction
+
 The Codebase for an independent A.I Agent that can intelligently play the Pentago swap board game.
 Built as a year 2 Computer Science Student for a course at school where for our final project a tournament of over 300 students was held and everyones agent played against one anothers. 
 
@@ -10,4 +11,6 @@ Some of the limitations of my project is my coding style and maintainability. I 
 
 This project got me very excited and inspired me to build another A.I for the 2048 mini-game on my own time as a passion project which is also on my Github.
 
-NOTE: only the files in `src/StudentPlayer` were authoured by me the remaining code is starter code to run a server to facilitate competitions and testing
+# Additional Information
+
+Only the files in `src/StudentPlayer` were authoured by me the remaining code is starter code to run a server to facilitate competitions and testing
