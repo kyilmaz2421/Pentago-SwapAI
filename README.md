@@ -1,6 +1,6 @@
-# Pentago-SwapAI
+# Pentago-SwapAI Introduction
 The Codebase for an independent A.I Agent that can intelligently play the Pentago swap board game.
-Built for a 3rd year course at school where for our final project a tournament of over 300 students was held and everyones agent played against one anothers. 
+Built as a year 2 Computer Science Student for a course at school where for our final project a tournament of over 300 students was held and everyones agent played against one anothers. 
 
 This A.I won 70% of 600 games in the tournament and was implemented using a variant of the Alpha-Beta Pruning algorithm. The algorithm was optimized to be able to search up to 10 moves ahead in less than 2 seconds.
 
